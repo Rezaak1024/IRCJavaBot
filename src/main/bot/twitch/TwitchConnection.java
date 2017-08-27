@@ -1,7 +1,7 @@
 package main.bot.twitch;
 
 import main.bot.core.Connection;
-import main.bot.core.Message;
+import main.bot.core.util.Message;
 import main.bot.mediator.Mediator;
 
 public class TwitchConnection extends Connection <TwitchConfiguration> {

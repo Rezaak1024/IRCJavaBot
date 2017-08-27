@@ -4,10 +4,10 @@ import java.util.ArrayList;
 
 import main.bot.core.Bot;
 import main.bot.core.Communicator;
-import main.bot.core.Interpreter;
-import main.bot.core.Message;
 import main.bot.core.channel.Channel;
 import main.bot.core.channel.User;
+import main.bot.core.util.Interpreter;
+import main.bot.core.util.Message;
 import main.bot.mediator.Mediator;
 
 public class TwitchBot extends Bot<TwitchConfiguration> implements Communicator {

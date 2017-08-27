@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import main.bot.core.channel.Channel;
 import main.bot.core.channel.User;
+import main.bot.core.util.Interpreter;
 import main.bot.mediator.Mediator;
 
 public abstract class Bot <T extends Configuration> implements Communicator{

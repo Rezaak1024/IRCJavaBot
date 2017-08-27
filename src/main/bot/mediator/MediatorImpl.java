@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Queue;
 
 import main.bot.core.Communicator;
-import main.bot.core.Message;
+import main.bot.core.util.Message;
 
 public class MediatorImpl implements Mediator {
 	

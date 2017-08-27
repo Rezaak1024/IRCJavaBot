@@ -1,5 +1,6 @@
 package main.bot.core;
 
+import main.bot.core.util.Message;
 import main.bot.mediator.Mediator;
 
 public interface Communicator {

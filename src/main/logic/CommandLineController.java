@@ -1,7 +1,7 @@
 package main.logic;
 
 import main.bot.core.Communicator;
-import main.bot.core.Message;
+import main.bot.core.util.Message;
 import main.bot.mediator.Mediator;
 
 public class CommandLineController implements Communicator{

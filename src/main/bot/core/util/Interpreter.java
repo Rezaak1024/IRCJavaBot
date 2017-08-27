@@ -1,4 +1,5 @@
-package main.bot.core;
+package main.bot.core.util;
+
 
 public abstract class Interpreter {
 	

@@ -1,4 +1,4 @@
-package main.bot.core;
+package main.bot.core.util;
 
 import main.bot.core.channel.Channel;
 import main.bot.core.channel.User;
